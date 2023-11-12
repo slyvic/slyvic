@@ -10,23 +10,23 @@
 
 ### Dedicated and results-driven Full-Stack Mobile and Web Developer with a proven track record of six years in the industry. Adept at creating innovative and efficient solutions for complex technical challenges. Proficient in both front-end and back-end development, with a strong commitment to delivering high-quality software that meets or exceeds client expectations. Experienced in working on a variety of projects ranging from small startups to large enterprises.
 
-#### **Front-End** *Development:*
+*#### **Front-End** Development:*
 Expertise in HTML5, CSS3, JavaScript, TypeScript and modern front-end frameworks such as React, Vue and Angular.
 Skilled in creating responsive and user-friendly interfaces, ensuring optimal user experience across devices.
 
-#### **Back-End** *Development:*
+*#### **Back-End** Development:*
 Proficient in server-side languages like Node.js, Python, and PHP.
 Strong database management skills, including MySQL, MongoDB, and PostgreSQL.
 Experience in designing and implementing RESTful APIs for seamless communication between front-end and back-end systems.
 
-#### **Mobile** *Development:*
+*#### **Mobile** Development:*
 Extensive knowledge of mobile application development for iOS and Android platforms using technologies such as React Native and Flutter.
 Successful delivery of cross-platform mobile apps with a focus on performance and user engagement.
 
-#### **Version** *Control:*
+*#### **Version** Control:*
 Expertise in using Git for version control, including branching, merging, and collaborative development.
 
-#### **Agile** *Methodologies:*
+*#### **Agile** Methodologies:*
 Proficient in Agile and Scrum methodologies, ensuring efficient project management and timely delivery of milestones.
 
 
