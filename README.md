@@ -6,7 +6,7 @@
 
 ## :man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
-### Dedicated and results-driven Full-Stack Mobile and Web Developer with a proven track record of six years in the industry. Adept at creating innovative and efficient solutions for complex technical challenges. Proficient in both front-end and back-end development, with a strong commitment to delivering high-quality software that meets or exceeds client expectations. Experienced in working on a variety of projects ranging from small startups to large enterprises.
+- :telescope: Dedicated and results-driven Full-Stack Mobile and Web Developer with a proven track record of six years in the industry. Adept at creating innovative and efficient solutions for complex technical challenges. Proficient in both front-end and back-end development, with a strong commitment to delivering high-quality software that meets or exceeds client expectations. Experienced in working on a variety of projects ranging from small startups to large enterprises.
 
 ## 💻 Languages, Frameworks, and Tools
 
