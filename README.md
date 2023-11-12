@@ -1,36 +1,36 @@
-# Welcome!
+## Welcome!
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandcoding&theme=dracula" alt="grandcoding" /></a></p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
-# :man_technologist: About Me :
+## :man_technologist: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
 ### Dedicated and results-driven Full-Stack Mobile and Web Developer with a proven track record of six years in the industry. Adept at creating innovative and efficient solutions for complex technical challenges. Proficient in both front-end and back-end development, with a strong commitment to delivering high-quality software that meets or exceeds client expectations. Experienced in working on a variety of projects ranging from small startups to large enterprises.
 
-### *Front-End Development:*
+** *Front-End Development:* **
 Expertise in HTML5, CSS3, JavaScript, TypeScript and modern front-end frameworks such as React, Vue and Angular.
 Skilled in creating responsive and user-friendly interfaces, ensuring optimal user experience across devices.
 
-### *Back-End Development:*
+** *Back-End Development:* **
 Proficient in server-side languages like Node.js, Python, and PHP.
 Strong database management skills, including MySQL, MongoDB, and PostgreSQL.
 Experience in designing and implementing RESTful APIs for seamless communication between front-end and back-end systems.
 
-### *Mobile Development:*
+** *Mobile Development:* **
 Extensive knowledge of mobile application development for iOS and Android platforms using technologies such as React Native and Flutter.
 Successful delivery of cross-platform mobile apps with a focus on performance and user engagement.
 
-### *Version Control:*
+** *Version Control:* **
 Expertise in using Git for version control, including branching, merging, and collaborative development.
 
-### *Agile Methodologies:*
+** *Agile Methodologies:* **
 Proficient in Agile and Scrum methodologies, ensuring efficient project management and timely delivery of milestones.
 
 
-# 💻 Languages, Frameworks, and Tools
+## 💻 Languages, Frameworks, and Tools
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="react-native" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
@@ -61,7 +61,7 @@ Proficient in Agile and Scrum methodologies, ensuring efficient project manageme
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
 
-# 📈 GitHub statistics
+## 📈 GitHub statistics
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=grandcoding&sshow_icons=true&theme=radical&count_private=true">
 
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandcoding&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
