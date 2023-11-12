@@ -11,7 +11,7 @@
 ### Dedicated and results-driven Full-Stack Mobile and Web Developer with a proven track record of six years in the industry. Adept at creating innovative and efficient solutions for complex technical challenges. Proficient in both front-end and back-end development, with a strong commitment to delivering high-quality software that meets or exceeds client expectations. Experienced in working on a variety of projects ranging from small startups to large enterprises.
 
 **Front-End** *Development:*
-#### Expertise in HTML5, CSS3, JavaScript, TypeScript and modern front-end frameworks such as React, Vue and Angular.
+##### Expertise in HTML5, CSS3, JavaScript, TypeScript and modern front-end frameworks such as React, Vue and Angular.
 Skilled in creating responsive and user-friendly interfaces, ensuring optimal user experience across devices.
 
 **Back-End** *Development:*
