@@ -1,7 +1,7 @@
 ## ようこそ！何か質問があれば、どんどん聞いてくださいね。お手伝いできることがあれば教えてください。
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandcoding&theme=dracula" alt="grandcoding" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-ninja-lol&theme=dracula" alt="tech-ninja-lol" /></a></p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
 ## :man_technologist: 自己紹介 :
@@ -40,8 +40,8 @@
 </p>
 
 ## 📈 GitHub 統計情報
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=grandcoding&sshow_icons=true&theme=radical&count_private=true">
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=tech-ninja-lol&sshow_icons=true&theme=radical&count_private=true">
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandcoding&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ninja-lol&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
