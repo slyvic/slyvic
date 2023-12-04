@@ -40,7 +40,6 @@
 </p>
 
 ## 📈 GitHub Status
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=tech-ninja-lol&sshow_icons=true&theme=radical&count_private=true">
 
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ninja-lol&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
