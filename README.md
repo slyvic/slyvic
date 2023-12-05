@@ -45,3 +45,6 @@
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ninja-lol&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
+
+## * Any fool can write code that a computer can understand, Good programmers write code that humans can understand, __Martin Fowler
