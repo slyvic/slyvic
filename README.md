@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-ninja-lol&theme=dracula" alt="tech-ninja-lol" /></a></p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
-## :man_technologist: about me :
+## :man_technologist : about me :
 - :telescope: I works as a software engineer and contributes to front-end and back-end development of web and mobile applications.
 - :telescope:  A dedicated results-driven developer with 9 years of experience as a full stack mobile and web developer. I'm skilled at providing innovative and efficient solutions to complex technical challenges. I have excellent skills in both front-end and back-end, and a strong commitment to delivering quality software that meets or exceeds client expectations. I have experience in projects ranging from small startups to large corporations.
 
