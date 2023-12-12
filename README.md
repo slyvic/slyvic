@@ -6,7 +6,7 @@
 
 ## 👨‍💻 : about me :
 - :telescope: I works as a software engineer and contributes to front-end and back-end development of web and mobile applications.
-- :telescope:  A dedicated results-driven developer with 9 years of experience as a full stack mobile and web developer. I'm skilled at providing innovative and efficient solutions to complex technical challenges. I have excellent skills in both front-end and back-end, and a strong commitment to delivering quality software that meets or exceeds client expectations. I have experience in projects ranging from small startups to large corporations.
+- :telescope:  A dedicated results-driven developer with 6 years of experience as a full stack mobile and web developer. I'm skilled at providing innovative and efficient solutions to complex technical challenges. I have excellent skills in both front-end and back-end, and a strong commitment to delivering quality software that meets or exceeds client expectations. I have experience in projects ranging from small startups to large corporations.
 
 ## 💻 Languages, frameworks, and tools
 
