@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-ninja-lol&theme=dracula" alt="tech-ninja-lol" /></a></p>
 
 
-## 👨‍💻 : about me :
+## 👨‍💻 : 私について :
 - :telescope: 私はソフトウェアエンジニアとして働いており、Webアプリケーションとモバイルアプリケーションのフロントエンドとバックエンドの開発に貢献しています。
 - :telescope: フルスタックのモバイルおよびWeb開発者として6年の経験を持つ、結果に重点を置く専任開発者です。複雑な技術的な課題に対して革新的かつ効率的なソリューションを提供することに熟練しています。フロントエンドとバックエンドの両方で優れたスキルを持ち、クライアントの期待を満たすか、それを超える高品質なソフトウェアを提供することに強いコミットメントを持っています。小規模なスタートアップから大企業までのプロジェクトに携わった経験があります。
 
