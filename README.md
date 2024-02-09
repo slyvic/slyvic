@@ -1,14 +1,14 @@
-## welcome! If you have any questions, please feel free to ask. Please let me know if I can help.
+## 新しい標準を作り出すには、その挑戦に立ち向かい、本当に楽しむことが必要です。
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-ninja-lol&theme=dracula" alt="tech-ninja-lol" /></a></p>
 
 
 ## 👨‍💻 : about me :
-- :telescope: I works as a software engineer and contributes to front-end and back-end development of web and mobile applications.
-- :telescope:  A dedicated results-driven developer with 6 years of experience as a full stack mobile and web developer. I'm skilled at providing innovative and efficient solutions to complex technical challenges. I have excellent skills in both front-end and back-end, and a strong commitment to delivering quality software that meets or exceeds client expectations. I have experience in projects ranging from small startups to large corporations.
+- :telescope: 私はソフトウェアエンジニアとして働いており、Webアプリケーションとモバイルアプリケーションのフロントエンドとバックエンドの開発に貢献しています。
+- :telescope: フルスタックのモバイルおよびWeb開発者として6年の経験を持つ、結果に重点を置く専任開発者です。複雑な技術的な課題に対して革新的かつ効率的なソリューションを提供することに熟練しています。フロントエンドとバックエンドの両方で優れたスキルを持ち、クライアントの期待を満たすか、それを超える高品質なソフトウェアを提供することに強いコミットメントを持っています。小規模なスタートアップから大企業までのプロジェクトに携わった経験があります。
 
-## 💻 Languages, frameworks, and tools
+## 💻 プログラミング言語、フレームワーク、ツール
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="react-native" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
@@ -39,7 +39,7 @@
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
 
-## 📈 GitHub Status
+## 📈 GitHubの状態
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=tech-ninja-lol&sshow_icons=true&theme=radical&count_private=true">
 
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ninja-lol&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
