@@ -1,14 +1,23 @@
-## 新しい標準を作り出すには、その挑戦に立ち向かい、本当に楽しむことが必要です。
+## Understand personal strengths and weaknesses 
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenzo-bff&theme=dracula" alt="kenzo-bff" /></a></p>
 
 
-## 👨‍💻 : 私について :
-- :telescope: 私はソフトウェアエンジニアとして働いており、Webアプリケーションとモバイルアプリケーションのフロントエンドとバックエンドの開発に貢献しています。
-- :telescope: フルスタックのモバイルおよびWeb開発者として6年の経験を持つ、結果に重点を置く専任開発者です。複雑な技術的な課題に対して革新的かつ効率的なソリューションを提供することに熟練しています。フロントエンドとバックエンドの両方で優れたスキルを持ち、クライアントの期待を満たすか、それを超える高品質なソフトウェアを提供することに強いコミットメントを持っています。小規模なスタートアップから大企業までのプロジェクトに携わった経験があります。
+## 👨‍💻 : About me :
+- :telescope: Hey there!
+- 👋 I'm a seasoned software engineer with 7 years of experience in full-stack mobile and web development.
+- I love tackling complex tech challenges and delivering innovative and efficient solutions.
+- Whether it's front-end or back-end, I've got the skills to not just meet but exceed client expectations.
+- I've been part of projects ranging from small startups to big enterprises.
+- Let's code something awesome together! 💻✨
 
-## 💻 プログラミング言語、フレームワーク、ツール
+
+
+
+
+
+## 💻 Programming languages, frameworks, and tools
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="react-native" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
