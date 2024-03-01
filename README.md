@@ -48,7 +48,7 @@
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
 
-## 📈 GitHubの状態
+## 📈 GitHub status
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=slyvic&sshow_icons=true&theme=radical&count_private=true">
 
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyvic&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
