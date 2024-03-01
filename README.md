@@ -1,7 +1,7 @@
 ## Understand personal strengths and weaknesses 
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenzo-bff&theme=dracula" alt="kenzo-bff" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slyvic&theme=dracula" alt="slyvic" /></a></p>
 
 
 ## 👨‍💻 : About me :
@@ -49,8 +49,8 @@
 </p>
 
 ## 📈 GitHubの状態
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=kenzo-bff&sshow_icons=true&theme=radical&count_private=true">
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=slyvic&sshow_icons=true&theme=radical&count_private=true">
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo-bff&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyvic&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
