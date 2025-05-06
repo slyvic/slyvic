@@ -1,4 +1,4 @@
-## 自分の強みと弱みを知る
+## 意図あるコードで未来を築く
 
 <p align="center">  
   <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" />  
